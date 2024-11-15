@@ -15,10 +15,10 @@ This project is a responsive web page for Insomnia Cookies, designed to showcase
 
 - HTML5: For page structure and content.
 - CSS3: For styling and responsive layout using media queries.
-- Responsive Design Notes
-- The layout is optimized for different screen sizes:
 
 ## Responsive Design Notes
+
+The layout is optimized for different screen sizes:
 
 - Desktop: Full layout with side-by-side hero section and grid-style featured products.
 - Tablet: Stacks the navigation and reduces padding.
